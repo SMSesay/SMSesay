@@ -28,7 +28,7 @@
 ---
 
 
-<img align="left" alt="SMSesay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACK&show_icons=true&hide_border=true" />
+<img align="left" alt="SMSesay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SMSesay&show_icons=true&hide_border=true" />
 
 
 [LinkedIn]: https://www.linkedin.com/in/sahrsesay/
