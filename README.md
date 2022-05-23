@@ -5,6 +5,7 @@
 - Programming languages I'm working with PL/SQL and Python
 - 
 - 2022 Goals: Contribute to the Sport Analytics and Data Science community
+_
 
 
 
