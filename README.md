@@ -31,10 +31,12 @@
 
 <img align="left" alt="SMSesay's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SMSesay&show_icons=true&theme=dark&hide_border=true" />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SMSesay&repo=ML_Projects)](https://github.com/SMSesay/ML_Projects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SMSesay&repo=Lego)](https://github.com/SMSesay/Lego)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SMSesay&theme=dark)](https://github.com/SMSesay)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SMSesay)](https://github.com/SMSesay)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SMSesay&repo=ML_Projects&theme=dark)](https://github.com/SMSesay/ML_Projects)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SMSesay&repo=Lego&theme=dark)](https://github.com/SMSesay/Lego)
+
 
 
 
