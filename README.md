@@ -11,7 +11,7 @@
     - Over 500 commits to Github
     - 5 Starred projects
     - Contributeto 5 projects
-- Fun Fact: I love playing the beautiful game 
+- Fun Fact: I love playing the beautiful game ⚽	
 
 
 
