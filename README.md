@@ -1,6 +1,6 @@
-### Hi there, I'm [Martin][LinkedIn] and Welcome to my Github
+## Hi there, I'm [Martin][LinkedIn] and Welcome to my Github
 
-## I'm a Sport Science and Computer Science graduate
+### I'm a Sport Science and Computer Science graduate
 - Programming languages currently learning Python, R and everything Data Science
 - Programming languages I'm working with PL/SQL and Python
 - Looking to collaborate on Data science, analysis or engineering projects
