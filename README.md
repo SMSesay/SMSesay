@@ -16,8 +16,10 @@
 
 
 ### Connect with me:
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[#0A66C2].svg" />
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[LinkedIn].svg" />
 ][LinkedIn]
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/[Medium].svg" />
+][Medium]
 
 ### Languages and Tools:
 
@@ -42,3 +44,4 @@
 
 
 [LinkedIn]: https://www.linkedin.com/in/sahrsesay/
+[Medium]: https://medium.com/@martin.sesay
