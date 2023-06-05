@@ -4,11 +4,10 @@
 - Programming languages currently learning Python, R and everything Data Science
 - Programming languages I'm working with PL/SQL and Python
 - Looking to collaborate on Data science, analysis or engineering projects
-- 2022 Goals: 
+- 2023 Goals: 
     - Contribute to the Sport Analytics and Data Science community
     - Attend a conference/workshop in Data Analytics community
-    - Earn a qualification or award in Sport analytics community
-    - Over 250 commits to Github
+    - Earn a qualification or certificate in Sport analytics community
     - 5 Starred projects
 - Fun Fact: I love playing the beautiful game ⚽	
 
